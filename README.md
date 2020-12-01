@@ -1,4 +1,4 @@
-# t
+# Simple counter
 
 ## Project setup
 ```
